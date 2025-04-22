@@ -4,6 +4,8 @@ import Education from "@/components/sections/Education";
 import Header from "@/components/sections/Header";
 import WorkExp from "@/components/sections/Work";
 
+
+
 export default function Home() {
   return (
     <div>
