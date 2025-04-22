@@ -13,7 +13,7 @@ const NavBar = () => {
 
   return (
     <>
-      <div className="items-center gap-5 flex mt-20 mb-16">
+      <div className="items-center gap-5 flex mt-20 mb-16 ">
         <MyImage height={100} width={100} className="rounded-full" />
         <div className="flex-1">
           <h1 className="text-2xl font-medium text-neutral-800 dark:text-neutral-200">
