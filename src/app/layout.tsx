@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { ThemeProvider } from "@/components/ThemeProvider"
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import "./globals.css";
+import BackgroundLayout from "@/components/BackgroundWrapper";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,9 +28,10 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} z-0 antialiased`}
         >
-            <MaxWidthWrapper>
+          <BackgroundLayout>
+             <MaxWidthWrapper>
               <ThemeProvider 
                attribute="class"
                defaultTheme="system"
@@ -39,6 +41,7 @@ export default function RootLayout({
                 {children}
               </ThemeProvider>
             </MaxWidthWrapper>
+          </BackgroundLayout>
       </body>
     </html>
   );
