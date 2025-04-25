@@ -1,20 +1,13 @@
 import React from 'react'
 import Image from 'next/image'
 
-
-interface Size {
-  width: number,
-   height: number,
-   className?: string,
-}
-
-const MyImage = ({width, height, className} : Size) => {
+const MyImage = ({className} : {className?: string}) => {
   return (
     <div>
        <Image src='/images/cv-img.jpg' 
             alt="myPhoto"
-            width={width}
-            height={height}
+            width={693}
+            height={693}
             className={className}
             />
             

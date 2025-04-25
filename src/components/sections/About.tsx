@@ -1,14 +1,17 @@
+import { useTranslations } from "next-intl";
 
 const About = () => {
+  const t = useTranslations("about");
   return (
-    <div className="mb-16 cursor-default">
-        <h1 className="pb-2 font-medium text-neutral-800 dark:text-neutral-200">About</h1>
-        <p className="text-neutral-600 dark:text-neutral-400 pl-2 text-[15px]">
-        HIRICH Oussama, a student at ESGI Paris specializing in Web Engineering,<span className="font-semibold">Nextjs </span>
-        developer with two years of experience in web development.
-        </p>
+    <div className="mb-10 md:mb-16 cursor-default">
+      <h1 className="mb-4 font-medium text-neutral-800 dark:text-neutral-200">
+      {t("title")}
+      </h1>
+      <p className="text-neutral-600 dark:text-neutral-400 pl-2 text-[15px]">
+        {t("content")}
+      </p>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;

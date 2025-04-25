@@ -1,0 +1,35 @@
+{
+  "header": {
+    "name": "HIRICH Oussama",
+    "title": "Développeur Full Stack Junior",
+    "link": "verceel.com/"
+  },
+  "about": {
+    "title": "À propos",
+    "content": "HIRICH Oussama, étudiant à l'ESGI Paris en spécialité Ingénierie Web, développeur Nextjs avec deux ans d'expérience en développement web."
+  },
+  "experience": {
+    "title": "Expérience Professionnelle",
+    "items": [
+      {
+        "period": "2024 - présent",
+        "position": "Développeur Web chez Prime-Environnement, Bobigny France",
+        "type": "Sur site",
+        "description": "Développement et maintenance d'applications web. Collaboration avec l'équipe pour concevoir et implémenter des solutions techniques."
+      }
+    ]
+  },
+  "education": {
+    "title": "Formation",
+    "items": [
+      {
+        "period": "2024 - présent",
+        "institution": "ESGI Paris - Ingénierie Web",
+        "type": "Formation en alternance",
+        "description": "Spécialisation en développement web, architectures frontend et backend, et gestion de projets web."
+      }
+    ]
+      
+    
+  }
+}

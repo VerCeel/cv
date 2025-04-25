@@ -1,0 +1,58 @@
+{
+    "header": {
+    "name": "HIRICH Oussama",
+    "title": "Junior Full Stack Developer",
+    "link": "verceel.com/"
+  },
+  "about": {
+    "title": "About",
+    "content": "HIRICH Oussama, a student at ESGI Paris specializing in Web Engineering, Nextjs developer with two years of experience in web development."
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "period": "test 1",
+        "institution": "Web Developer at Prime-Environnement, Bobigny France",
+        "type": "In Site",
+        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+      },
+      {
+        "period": "test 2",
+        "institution": "Web Developer at Prime-Environnement, Bobigny France",
+        "type": "In Site",
+        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+      },
+      {
+        "period": "test 3",
+        "institution": "Web Developer at Prime-Environnement, Bobigny France",
+        "type": "In Site",
+        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+      }
+    ]
+      
+  },
+  "experience": {
+    "title": "Work Experience",
+    "items": [
+      {
+        "period": "2024 present",
+        "position": "Web Developer at Prime-Environnement, Bobigny France",
+        "type": "In Site",
+        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+      },
+      {
+        "period": "2022 ",
+        "position": "Web Developer at Prime-Environnement, Bobigny France",
+        "type": "In Site",
+        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+      },
+      {
+        "period": "2023 ",
+        "position": "Web Developer at Prime-Environnement, Bobigny France",
+        "type": "In Site",
+        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+      }
+    ]
+  }
+}

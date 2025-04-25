@@ -6,36 +6,39 @@ import Link from "next/link";
 import { Button } from "../ui/button";
 import { Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
+import SwitchLanguage from "../SwitchLanguage";
+import { useTranslations } from "next-intl";
 
 
 const NavBar = () => {
   const { theme, setTheme } = useTheme();
   const themeChanger = () => setTheme(theme === "dark" ? "light" : "dark");
+  const t = useTranslations('header');
 
   return (
     <>
     
-      <div className="items-center gap-5 flex mt-20 mb-16 ">
-        <MyImage height={100} width={100} className="rounded-full" />
-        
+      <div className="items-center gap-2 md:gap-5 flex mt-20 mb-20 ">
+        <MyImage className="rounded-full size-18 md:size-24" />
         <div className="flex-1">
-          <h1 className="text-2xl font-medium text-neutral-800 dark:text-neutral-200">
-            HIRICH Oussama
+          <h1 className="text-lg font-medium text-neutral-800 dark:text-neutral-200">
+            {t('name')}
           </h1>
-          <p className="text-neutral-600 dark:text-neutral-400 ">
-            Junior Full Stack Devloper
+          <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+           {t('title')}
           </p>
           <Link
-            href={"https://verceel.com"}
+            href={t('link')}
             target="blank"
             className="bg-neutral-300 px-2 py-[2px] hover:opacity-80 text-neutral-600 text-sm rounded-full 
             dark:bg-neutral-600 dark:text-neutral-400"
           >
-            verceel.com/
+            {t('link')}
           </Link>
         </div>
         
         <div>
+          <SwitchLanguage/>
           <Button
             className="cursor-pointer"
             size="icon"
@@ -44,6 +47,7 @@ const NavBar = () => {
           >
             {theme === "dark" ? <Sun /> : <Moon />}
           </Button>
+          
         </div>
       </div>
     </>
