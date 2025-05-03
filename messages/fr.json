@@ -1,21 +1,27 @@
 {
   "header": {
     "name": "HIRICH Oussama",
-    "title": "Développeur Full Stack Junior",
+    "title": "Développeur Full Stack",
     "link": "verceel.com/"
   },
   "about": {
     "title": "À propos",
-    "content": "HIRICH Oussama, étudiant à l'ESGI Paris en spécialité Ingénierie Web, développeur Nextjs avec deux ans d'expérience en développement web."
+    "content": "HIRICH Oussama, Étudiant en bachelor 3ème année à l’ESGI Paris, spécialisation Ingénierie du Web, je suis développeur Next.js avec deux ans d’expérience dans le développement web."
   },
   "experience": {
     "title": "Expérience Professionnelle",
     "items": [
       {
-        "period": "2024 - présent",
+        "period": "Fév 2024",
         "position": "Développeur Web chez Prime-Environnement, Bobigny France",
-        "type": "Sur site",
-        "description": "Développement et maintenance d'applications web. Collaboration avec l'équipe pour concevoir et implémenter des solutions techniques."
+        "type": "Alternance",
+        "description": "Développement de sites web (Tailwind CSS, React, JavaScript, PHP) et de landing pages. Implémentation d'API REST, optimisation SEO."
+      },
+      {
+        "period": "Sep 2022 - Déc 2023",
+        "position": "Développeur Web chez ABS-Securty, Alfortville",
+        "type": "Alternance",
+        "description": "Développement de sites web (HTML, CSS, JavaScript, PHP) et CMS WordPress. Création de publicités pour réseaux sociaux."
       }
     ]
   },
@@ -23,13 +29,40 @@
     "title": "Formation",
     "items": [
       {
-        "period": "2024 - présent",
-        "institution": "ESGI Paris - Ingénierie Web",
+        "period": "Jan 2025 - Déc 2025",
+        "institution": "ESGI Paris - Ingénieur du Web",
         "type": "Formation en alternance",
-        "description": "Spécialisation en développement web, architectures frontend et backend, et gestion de projets web."
+        "description": "Les fondamentaux de Linux, Outil de versionning et bonnes pratiques de code , AlgorithmesIntégration WEB - HTML5 - CSS3 - jQuery PHP8 - MVC From Scratch Javascript Panorma des CMS"
+      },
+      {
+        "period": "Sep 2022 - Juin 2024",
+        "institution": "F2I Paris - BTS SIO SLAM",
+        "type": "Formation en alternance",
+        "description": "Solutions Logicielles et Applications Métiers. Développement et gestion d'applications."
+      },
+      {
+        "period": "—",
+        "institution": "Lycée Mohammed V, Maroc",
+        "type": "Baccalauréat",
+        "description": "Science de la vie et terre, mention bien."
       }
     ]
-      
-    
+  },
+  "contact":{
+    "title": "CONTACT",
+    "phone": "+33 7 66 49 91 36",
+    "email": "hirich.oussama@gmail.com",
+    "linkedin": "/HIRICH Oussama",
+    "infos": {
+      "phone" :"Téléphone",
+      "email": "Email",
+      "linkedin": "Linkedin"
+    }
+  },
+  "contacts": {
+    "phone": "0766499136",
+    "email": "hirich.oussama@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/oussama-hirich/",
+    "github": "https://github.com/VerCeel"
   }
 }

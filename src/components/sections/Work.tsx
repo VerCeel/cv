@@ -19,9 +19,9 @@ const WorkExp = () => {
         {markup("title")}
       </h1>
       {raw('items').map((item : Data, index : number) =>(
-        <div className="flex flex-row mb-4"
+        <div className="flex flex-row mb-4 gap-4"
         key={index}>
-        <div className="md:w-40 w-30">
+        <div className="w-30">
           <p className="text-neutral-600 text-md dark:text-neutral-400">
           {item.period}
           </p>

@@ -28,7 +28,7 @@ const NavBar = () => {
            {t('title')}
           </p>
           <Link
-            href={t('link')}
+            href={'https://www.verceel.com/'}
             target="blank"
             className="bg-neutral-300 px-2 py-[2px] hover:opacity-80 text-neutral-600 text-sm rounded-full 
             dark:bg-neutral-600 dark:text-neutral-400"

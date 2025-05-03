@@ -1,58 +1,68 @@
 {
-    "header": {
+  "header": {
     "name": "HIRICH Oussama",
-    "title": "Junior Full Stack Developer",
+    "title": "Full Stack Developer",
     "link": "verceel.com/"
   },
   "about": {
     "title": "About",
-    "content": "HIRICH Oussama, a student at ESGI Paris specializing in Web Engineering, Nextjs developer with two years of experience in web development."
+    "content": "HIRICH Oussama, a third-year Bachelor's student at ESGI Paris specializing in Web Engineering. I am a Next.js developer with two years of experience in web development."
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "items": [
+      {
+        "period": "Feb 2024",
+        "position": "Web Developer at Prime-Environnement, Bobigny, France",
+        "type": "Work-study",
+        "description": "Development of websites (Tailwind CSS, React, JavaScript, PHP) and landing pages. Implementation of REST APIs, SEO optimization."
+      },
+      {
+        "period": "Sep 2022 - Dec 2023",
+        "position": "Web Developer at ABS-Securty, Alfortville",
+        "type": "Work-study",
+        "description": "Development of websites (HTML, CSS, JavaScript, PHP) and WordPress CMS. Creation of social media advertisements."
+      }
+    ]
   },
   "education": {
     "title": "Education",
     "items": [
       {
-        "period": "test 1",
-        "institution": "Web Developer at Prime-Environnement, Bobigny France",
-        "type": "In Site",
-        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+        "period": "Jan 2025 - Dec 2025",
+        "institution": "ESGI Paris - Web Engineering",
+        "type": "Work-study program",
+        "description": "Fundamentals of Linux, version control tools and best coding practices, algorithms, web integration (HTML5, CSS3, jQuery), PHP8 - MVC from scratch, JavaScript, CMS overview."
       },
       {
-        "period": "test 2",
-        "institution": "Web Developer at Prime-Environnement, Bobigny France",
-        "type": "In Site",
-        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+        "period": "Sep 2022 - Jun 2024",
+        "institution": "F2I Paris - BTS SIO SLAM",
+        "type": "Work-study program",
+        "description": "Software Solutions and Business Applications. Development and management of applications."
       },
       {
-        "period": "test 3",
-        "institution": "Web Developer at Prime-Environnement, Bobigny France",
-        "type": "In Site",
-        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
+        "period": "—",
+        "institution": "Lycée Mohammed V, Morocco",
+        "type": "High School Diploma",
+        "description": "Life and Earth Sciences, with honors."
       }
     ]
-      
   },
-  "experience": {
-    "title": "Work Experience",
-    "items": [
-      {
-        "period": "2024 present",
-        "position": "Web Developer at Prime-Environnement, Bobigny France",
-        "type": "In Site",
-        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
-      },
-      {
-        "period": "2022 ",
-        "position": "Web Developer at Prime-Environnement, Bobigny France",
-        "type": "In Site",
-        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
-      },
-      {
-        "period": "2023 ",
-        "position": "Web Developer at Prime-Environnement, Bobigny France",
-        "type": "In Site",
-        "description": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet."
-      }
-    ]
+  "contact": {
+    "title": "CONTACT",
+    "phone": "+33 7 66 49 91 36",
+    "email": "hirich.oussama@gmail.com",
+    "linkedin": "/HIRICH Oussama",
+    "infos": {
+      "phone": "Phone",
+      "email": "Email",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "contacts": {
+    "phone": "0766499136",
+    "email": "hirich.oussama@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/oussama-hirich/",
+    "github": "https://github.com/VerCeel"
   }
 }

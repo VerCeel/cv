@@ -17,7 +17,7 @@ const SwitchLanguage = () => {
         className="cursor-pointer"
         size="icon"
         variant='ghost'>
-            {params === '/en' ? <UK/> : <FR/>}
+            {params === '/en' ? <FR/> : <UK/>}
         </Button>
     </Link>
   )
