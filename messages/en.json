@@ -5,46 +5,69 @@
     "link": "verceel.com/"
   },
   "about": {
-    "title": "About",
-    "content": "HIRICH Oussama, a third-year Bachelor's student at ESGI Paris specializing in Web Engineering. I am a Next.js developer with two years of experience in web development."
+    "title": "ABOUT ME",
+    "content": "HIRICH Oussama, a 3rd-year student in the Web Engineering Bachelor program at ESGI Paris, aiming for a career as a software developer. Passionate about web and software application development, I have gained solid experience in Next.js, JavaScript, PHP, Python, and SQL, which I apply through my academic and personal projects.\nCurrently seeking a work-study program (1 week school / 3 weeks company) to strengthen my skills and contribute to ambitious projects."
   },
   "experience": {
-    "title": "Professional Experience",
+    "title": "PROFESSIONAL EXPERIENCE",
     "items": [
       {
-        "period": "Feb 2024",
-        "position": "Web Developer at Prime-Environnement, Bobigny, France",
+        "period": "February 2024 – February 2025",
+        "position": "Web Developer – Prime Environnement – Bobigny",
         "type": "Work-study",
-        "description": "Development of websites (Tailwind CSS, React, JavaScript, PHP) and landing pages. Implementation of REST APIs, SEO optimization."
+        "description": "• Work-study at Prime Environnement (industrial company).\n• Development and maintenance of websites (ReactJS, TailwindCSS, JavaScript, PHP) and creation of landing pages."
       },
       {
-        "period": "Sep 2022 - Dec 2023",
-        "position": "Web Developer at ABS-Securty, Alfortville",
+        "period": "September 2022 – December 2023",
+        "position": "Web Developer – ABS Security – Alfortville",
         "type": "Work-study",
-        "description": "Development of websites (HTML, CSS, JavaScript, PHP) and WordPress CMS. Creation of social media advertisements."
+        "description": "• Work-study at ABS Security (industrial company).\n• Development of websites (HTML, CSS, JavaScript, PHP) and CMS integration (WordPress).\n• Design and creation of marketing materials for social media to increase visibility and client acquisition."
       }
     ]
   },
   "education": {
-    "title": "Education",
+    "title": "EDUCATION",
     "items": [
       {
-        "period": "Jan 2025 - Dec 2025",
-        "institution": "ESGI Paris - Web Engineering",
+        "period": "September 2022 – December 2023",
+        "institution": "BACHELOR WEB ENGINEERING – ESGI Paris",
         "type": "Work-study program",
-        "description": "Fundamentals of Linux, version control tools and best coding practices, algorithms, web integration (HTML5, CSS3, jQuery), PHP8 - MVC from scratch, JavaScript, CMS overview."
+        "description": "• Programming: HTML5, CSS3, jQuery, PHP8 (and MVC-type architectures), JavaScript.\n• Database design and management (SQL / relational databases).\n• Linux and system environment management.\n• Git / version control."
       },
       {
-        "period": "Sep 2022 - Jun 2024",
-        "institution": "F2I Paris - BTS SIO SLAM",
+        "period": "January 2025 – April 2025, not completed",
+        "institution": "BACHELOR WEB ENGINEERING – ESGI Paris",
+        "type": "Program suspended due to lack of work-study contract",
+        "description": "• Programming: HTML5, CSS3, jQuery, PHP8 (and MVC-type architectures), JavaScript.\n• Database design and management (SQL / relational databases).\n• Linux and system environment management.\n• Git / version control."
+      },
+      {
+        "period": "September 2022 – June 2024",
+        "institution": "BTS SIO SLAM - F2I Paris",
         "type": "Work-study program",
-        "description": "Software Solutions and Business Applications. Development and management of applications."
+        "description": "• Programming: Java, Python, PHP, C, C#, JavaScript, React.js, Node.js.\n• Database design and management (SQL, MySQL) / Analysis and design (UML / Merise)."
       },
       {
         "period": "—",
-        "institution": "Lycée Mohammed V, Morocco",
-        "type": "High School Diploma",
+        "institution": "Mohammed V High School, Morocco",
+        "type": "Baccalaureate",
         "description": "Life and Earth Sciences, with honors."
+      }
+    ]
+  },
+  "projets": {
+    "title": "PERSONAL PROJECTS",
+    "items": [
+      {
+        "period": "—",
+        "institution": "Freelance Web Developer – Fiverr",
+        "type": "Design and development of web solutions for international clients (landing pages, mini-applications).",
+        "description": "• Design and development of a web application and a landing page with Next.js for BFM Énergies.\n• Design and implementation of landing pages for Mira Ecologia using WordPress and Elementor."
+      },
+      {
+        "period": "—",
+        "institution": "Web Applications",
+        "type": "Web Applications",
+        "description": "• Restaurant website: Full development with HTML, CSS, native PHP, and JavaScript (BTS final project).\n• Online dictionary: Application in HTML, CSS, JavaScript connected to an external API…"
       }
     ]
   },

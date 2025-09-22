@@ -31,7 +31,7 @@ const Education = () => {
           <p className="text-neutral-600 mb-1 dark:text-neutral-400">
           {item.type}
             </p>
-          <p className="text-neutral-600 text-sm dark:text-neutral-400">
+          <p style={{ whiteSpace: "pre-line" }} className="text-neutral-600 text-sm dark:text-neutral-400">
           {item.description}
           </p>
         </div>

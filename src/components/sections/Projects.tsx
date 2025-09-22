@@ -1,18 +1,16 @@
-"use client";
-
 import { useTranslations } from "next-intl";
 import React from "react";
 
 
 interface Data {
-    period: string,
-    position: string,
-    type: string,
-    description: string,
+  period: string,
+  institution: string,
+  type: string,
+  description: string 
 }
 
-const WorkExp = () => {
-  const {markup, raw} = useTranslations("experience");
+const Projects = () => {
+  const {markup, raw} = useTranslations("projets");
   return (
     <div className="mb-16 cursor-default">
       <h1 className="mb-4 font-medium text-neutral-800 dark:text-neutral-200">
@@ -28,7 +26,7 @@ const WorkExp = () => {
         </div>
         <div className="flex-1">
           <span className="font-semibold text-sm text-neutral-800 dark:text-neutral-200">
-          {item.position}
+          {item.institution}
           </span>
           <p className="text-neutral-600 mb-1 dark:text-neutral-400">
           {item.type}
@@ -43,4 +41,4 @@ const WorkExp = () => {
   );
 };
 
-export default WorkExp;
+export default Projects;

@@ -7,7 +7,7 @@ const About = () => {
       <h1 className="mb-4 font-medium text-neutral-800 dark:text-neutral-200">
       {t("title")}
       </h1>
-      <p className="text-neutral-600 dark:text-neutral-400 pl-2 text-[15px]">
+      <p style={{ whiteSpace: "pre-line" }} className="text-neutral-600 dark:text-neutral-400 pl-2 text-[15px]">
         {t("content")}
       </p>
     </div>

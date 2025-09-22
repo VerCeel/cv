@@ -5,46 +5,69 @@
     "link": "verceel.com/"
   },
   "about": {
-    "title": "À propos",
-    "content": "HIRICH Oussama, Étudiant en bachelor 3ème année à l’ESGI Paris, spécialisation Ingénierie du Web, je suis développeur Next.js avec deux ans d’expérience dans le développement web."
+    "title": "À PROPOS",
+    "content": "HIRICH Oussama, Étudiant en 3ᵉ année de Bachelor Ingénieur du Web à l’ESGI Paris, je vise une carrière de développeur logiciel. Passionné par le développement d’applications web et logicielles, j’ai acquis une solide expérience en Next.js, JavaScript, PHP, Python et SQL, que je mets en pratique à travers mes projets académiques et personnels.\nActuellement à la recherche d’une alternance (1 semaine école / 3 semaines entreprise) pour renforcer mes compétences et contribuer à des projets ambitieux."
   },
   "experience": {
-    "title": "Expérience Professionnelle",
+    "title": "EXPERIENCE PROFESSIONNELLE",
     "items": [
       {
-        "period": "Fév 2024",
-        "position": "Développeur Web chez Prime-Environnement, Bobigny France",
+        "period": "Frvrier 2024 – Février 2025",
+        "position": "Développeur Web – Prime Environnement – Bobigny",
         "type": "Alternance",
-        "description": "Développement de sites web (Tailwind CSS, React, JavaScript, PHP) et de landing pages. Implémentation d'API REST, optimisation SEO."
+        "description": "• Alternance au sein de Prime Environnement. (Entreprise d’industrie).\n• Développement et maintenance des sites web (ReactJS, TailwindCSS, JavaScript, PHP) et création des landing pages."
       },
       {
-        "period": "Sep 2022 - Déc 2023",
-        "position": "Développeur Web chez ABS-Securty, Alfortville",
+        "period": "Septembre 2022 – Décembre 2023",
+        "position": "Développeur Web – ABS Security – Alfortville",
         "type": "Alternance",
-        "description": "Développement de sites web (HTML, CSS, JavaScript, PHP) et CMS WordPress. Création de publicités pour réseaux sociaux."
+        "description": "• Alternance au sein d’ABS Security. (Entreprise d’industrie).\n• Développement de sites web (HTML, CSS, JavaScript, PHP) et intégration de CMS (WordPress).\n• Conception et création de supports publicitaires pour les réseaux sociaux afin d’accroître la visibilité et la clientèle."
       }
     ]
   },
   "education": {
-    "title": "Formation",
+    "title": "FORMATION",
     "items": [
       {
-        "period": "Jan 2025 - Déc 2025",
-        "institution": "ESGI Paris - Ingénieur du Web",
+        "period": "Septembre 2022 – Décembre 2023",
+        "institution": "BACHELOR INGÉNIEUR DU WEB – ESGI Paris",
         "type": "Formation en alternance",
-        "description": "Les fondamentaux de Linux, Outil de versionning et bonnes pratiques de code , AlgorithmesIntégration WEB - HTML5 - CSS3 - jQuery PHP8 - MVC From Scratch Javascript Panorma des CMS"
+        "description": "• Programmation : HTML5, CSS3, jQuery, PHP8 (et architectures type MVC) JavaScript.\n• Conception et gestion de bases de données SQL / bases de données relationnelles.\n• Linux et gestion d’environnements systèmes.\n• Git / versionning."
       },
       {
-        "period": "Sep 2022 - Juin 2024",
-        "institution": "F2I Paris - BTS SIO SLAM",
+        "period": "Janvier 2025 – Avril 2025, non terminé",
+        "institution": "BACHELOR INGÉNIEUR DU WEB – ESGI Paris",
+        "type": "formation suspendue faute d’alternance",
+                "description": "• Programmation : HTML5, CSS3, jQuery, PHP8 (et architectures type MVC) JavaScript.\n• Conception et gestion de bases de données SQL / bases de données relationnelles.\n• Linux et gestion d’environnements systèmes.\n• Git / versionning."
+      },
+      {
+        "period": "Septembre 2022 - Juin 2024",
+        "institution": "BTS SIO SLAM - F2I paris",
         "type": "Formation en alternance",
-        "description": "Solutions Logicielles et Applications Métiers. Développement et gestion d'applications."
+        "description": "• Programmation : Java, Python, PHP, C, C#, JavaScript, React.js, Node.js.\n• Conception et gestion de bases de données (SQL, MySQL) / Analyse et conception (UML / Merise)."
       },
       {
         "period": "—",
         "institution": "Lycée Mohammed V, Maroc",
         "type": "Baccalauréat",
         "description": "Science de la vie et terre, mention bien."
+      }
+    ]
+  },
+  "projets": {
+    "title": "PROJETS PERSONNELS",
+    "items": [
+      {
+        "period": "—",
+        "institution": "Développeur Web Freelance – Fiverr ",
+        "type": "Conception et développement de solutions web pour des clients internationaux (landing pages, mini-applications).",
+        "description": "• Conception et développement d’une application web ainsi qu’une landing page avec Next.js pour BFM Énergies.\n•Conception et réalisation de landing pages pour Mira Ecologia avec WordPress et Elementor."
+      },
+      {
+        "period": "—",
+        "institution": "Applications web",
+        "type": "Applications web",
+        "description": "• Site de restauration : Développement complet en HTML, CSS, PHP natif et JavaScript (Projet de soutenance BTS).\n• Dictionnaire en ligne : Application en HTML, CSS, JavaScript connectée à une API externe…"
       }
     ]
   },
