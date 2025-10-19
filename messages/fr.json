@@ -6,22 +6,28 @@
   },
   "about": {
     "title": "À PROPOS",
-    "content": "HIRICH Oussama, Étudiant en 3ᵉ année de Bachelor Ingénieur du Web à l’ESGI Paris, je vise une carrière de développeur logiciel. Passionné par le développement d’applications web et logicielles, j’ai acquis une solide expérience en Next.js, JavaScript, PHP, Python et SQL, que je mets en pratique à travers mes projets académiques et personnels.\nActuellement à la recherche d’une alternance (1 semaine école / 3 semaines entreprise) pour renforcer mes compétences et contribuer à des projets ambitieux."
+    "content": "Étudiant en 3ᵉ année de Bachelor Ingénieur du Web à l'ESGI Paris, je vise une carrière de développeur logiciel. Passionné par le développement d'applications web et logicielles, j'ai acquis une solide expérience en Next.js, TypeScript, PHP, Python et SQL, que je mets en pratique à travers mes projets académiques et personnels.\nActuellement à la recherche d'une alternance (1 semaine école / 3 semaines entreprise)"
   },
-  "experience": {
+"experience": {
     "title": "EXPERIENCE PROFESSIONNELLE",
     "items": [
       {
-        "period": "Frvrier 2024 – Février 2025",
-        "position": "Développeur Web – Prime Environnement – Bobigny",
-        "type": "Alternance",
-        "description": "• Alternance au sein de Prime Environnement. (Entreprise d’industrie).\n• Développement et maintenance des sites web (ReactJS, TailwindCSS, JavaScript, PHP) et création des landing pages."
+        "period": "Mars 2025 – Août 2025",
+        "position": "Stage QA Automation Test – Capgemini – Casablanca",
+        "type": "Stage",
+        "description": "• Rédaction de cas de test / plans de test et exécution (tests fonctionnels, régression).\n• Automatisation des tests (Selenium, Robot Framework, scripts CI/CD).\n• Reporting et gestion des anomalies (Jira, défaut tracking) + participation aux revues et réunions Agile."
       },
       {
-        "period": "Septembre 2022 – Décembre 2023",
-        "position": "Développeur Web – ABS Security – Alfortville",
+        "period": "Février 2024 – Février 2025",
+        "position": "Développeur Full-Stack – Prime Environnement – Bobigny",
         "type": "Alternance",
-        "description": "• Alternance au sein d’ABS Security. (Entreprise d’industrie).\n• Développement de sites web (HTML, CSS, JavaScript, PHP) et intégration de CMS (WordPress).\n• Conception et création de supports publicitaires pour les réseaux sociaux afin d’accroître la visibilité et la clientèle."
+        "description": "• Création des maquettes Figma pour le UI/UX design.\n• Développement du site prime-environnement from scratch (React.JS, TailwindCSS).\n• Conception et développement d'une application web pour la gestion (Next.JS et NeonDB).\n• Développement des API routes (Endpoints) dans Next.JS pour la communication avec NeonDB (PostgreSQL)."
+      },
+      {
+        "period": "Septembre 2022 – Décembre 2024",
+        "position": "Développeur Full-Stack – ABS Security – Alfortville",
+        "type": "Alternance",
+        "description": "• Développement de site web (PHP, JavaScript, Bootstrap) et intégration de CMS (WordPress).\n• Création de supports publicitaires pour les réseaux sociaux afin d'accroître la visibilité et la clientèle."
       }
     ]
   },
@@ -29,22 +35,16 @@
     "title": "FORMATION",
     "items": [
       {
-        "period": "Septembre 2022 – Décembre 2023",
+        "period": "Septembre 2025 - Juin 2026",
         "institution": "BACHELOR INGÉNIEUR DU WEB – ESGI Paris",
         "type": "Formation en alternance",
-        "description": "• Programmation : HTML5, CSS3, jQuery, PHP8 (et architectures type MVC) JavaScript.\n• Conception et gestion de bases de données SQL / bases de données relationnelles.\n• Linux et gestion d’environnements systèmes.\n• Git / versionning."
-      },
-      {
-        "period": "Janvier 2025 – Avril 2025, non terminé",
-        "institution": "BACHELOR INGÉNIEUR DU WEB – ESGI Paris",
-        "type": "formation suspendue faute d’alternance",
-                "description": "• Programmation : HTML5, CSS3, jQuery, PHP8 (et architectures type MVC) JavaScript.\n• Conception et gestion de bases de données SQL / bases de données relationnelles.\n• Linux et gestion d’environnements systèmes.\n• Git / versionning."
+        "description": "• Programmation : PHP8, SASS, jQuery, JavaScript, TypeScript, React.js, Node.js (et architectures type MVC).\n• Conception et gestion de bases de données SQL / bases de données relationnelles.\n• Git / Docker."
       },
       {
         "period": "Septembre 2022 - Juin 2024",
         "institution": "BTS SIO SLAM - F2I paris",
         "type": "Formation en alternance",
-        "description": "• Programmation : Java, Python, PHP, C, C#, JavaScript, React.js, Node.js.\n• Conception et gestion de bases de données (SQL, MySQL) / Analyse et conception (UML / Merise)."
+        "description": "• Programmation : Java, Python, PHP, C, C#, JavaScript.\n• Conception et gestion de bases de données (SQL, MySQL) / Analyse et conception (UML / Merise)."
       },
       {
         "period": "—",
@@ -54,20 +54,27 @@
       }
     ]
   },
-  "projets": {
+ "projets": {
     "title": "PROJETS PERSONNELS",
     "items": [
       {
-        "period": "—",
-        "institution": "Développeur Web Freelance – Fiverr ",
-        "type": "Conception et développement de solutions web pour des clients internationaux (landing pages, mini-applications).",
-        "description": "• Conception et développement d’une application web ainsi qu’une landing page avec Next.js pour BFM Énergies.\n•Conception et réalisation de landing pages pour Mira Ecologia avec WordPress et Elementor."
+        "category": "Développeur Full-Stack Freelance – Fiverr / Malt",
+        "type": "Freelance",
+        "description": "Conception et développement de solutions web pour des clients internationaux (landing pages, mini-applications).",
+        "projects": [
+          "• Conception et développement d'une application web ainsi qu'une landing page avec Next.js pour BFM Énergies.",
+          "• Conception et réalisation de landing pages pour Mira-Ecologia avec WordPress et Elementor.",
+          "• Conception d'un site E-commerce pour Les délices de Soie avec next.JS, NeonDB et Stripe."
+        ]
       },
       {
-        "period": "—",
-        "institution": "Applications web",
-        "type": "Applications web",
-        "description": "• Site de restauration : Développement complet en HTML, CSS, PHP natif et JavaScript (Projet de soutenance BTS).\n• Dictionnaire en ligne : Application en HTML, CSS, JavaScript connectée à une API externe…"
+        "category": "Projets académiques",
+        "type": "Académique",
+        "description": "Applications web développées dans le cadre de la formation",
+        "projects": [
+          "• Site de restauration : Développement complet en Bootstrap, JavaScript, PHP, SQL.",
+          "• Application web (CRUD) déployée sur une VM Debian, avec une API en Go et une gestion du temps réel via WebSockets."
+        ]
       }
     ]
   },
