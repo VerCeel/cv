@@ -18,12 +18,6 @@
         "description": "• Rédaction de cas de test / plans de test et exécution (tests fonctionnels, régression).\n• Automatisation des tests (Selenium, Robot Framework, scripts CI/CD).\n• Reporting et gestion des anomalies (Jira, défaut tracking) + participation aux revues et réunions Agile."
       },
       {
-        "period": "Février 2024 – Février 2025",
-        "position": "Développeur Full-Stack – Prime Environnement – Bobigny",
-        "type": "Alternance",
-        "description": "• Création des maquettes Figma pour le UI/UX design.\n• Développement du site prime-environnement from scratch (React.JS, TailwindCSS).\n• Conception et développement d'une application web pour la gestion (Next.JS et NeonDB).\n• Développement des API routes (Endpoints) dans Next.JS pour la communication avec NeonDB (PostgreSQL)."
-      },
-      {
         "period": "Septembre 2022 – Décembre 2024",
         "position": "Développeur Full-Stack – ABS Security – Alfortville",
         "type": "Alternance",
