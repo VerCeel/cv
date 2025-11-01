@@ -47,7 +47,7 @@ const NavBar = () => {
               <TooltipTrigger>
                 <Link
                   href={
-                    "https://drive.google.com/file/d/1lEhMGEAI9bfmN10vGw9po8w2olRrSldM/view?usp=sharing"
+                    "https://drive.google.com/file/d/1F1crUzT748fSHhd4GHI_gHllOl_pYg7J/view?usp=sharing"
                   }
                   target="blank"
                 >
